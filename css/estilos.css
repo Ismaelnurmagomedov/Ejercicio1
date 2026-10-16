@@ -1,8 +1,12 @@
 .tarjeta {
-    border: 1px solid #265a98;
+    border: 1px solid #fe2903;
     padding: 1rem;
   }
 
   .tarjeta h3 {
     margin-top: 0;
+  }
+
+  body {
+    background-color: rgb(255, 255, 255);
   }
